@@ -1,6 +1,5 @@
 === Full Comments On Dashboard ===
 Contributors: scribu
-Donate link: http://scribu.net/wordpress
 Tags: comments, dashboard
 Requires at least: 2.7
 Tested up to: 3.0
