@@ -6,8 +6,6 @@ Version: 1.0.3
 Author: scribu
 Author URI: http://scribu.net/
 Plugin URI: http://scribu.net/wordpress/full-comments-on-dashboard
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 function full_comments_on_dashboard($excerpt) {
